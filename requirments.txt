@@ -11,3 +11,4 @@ pygments>=2.4.0
 nbformat>=4.2.0
 numba
 pandas-ta
+optuna
