@@ -1,0 +1,12 @@
+datatable
+pandas
+pyarrow
+matplotlib
+plotly
+tqdm
+requests
+scipy
+apply
+pygments>=2.4.0
+nbformat>=4.2.0
+numba
