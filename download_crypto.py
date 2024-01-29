@@ -7,7 +7,7 @@ import zipfile
 from concurrent.futures import ThreadPoolExecutor
 import requests, io
 from tqdm import tqdm
-from requests_future import get_future_historical_data_link
+from xgboost_pivot_point.requests_future import get_future_historical_data_link
 
 # Class of margin
 class Download_crypto():
