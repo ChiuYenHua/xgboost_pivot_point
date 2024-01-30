@@ -55,6 +55,6 @@ def get_pivot_point(df):
     # Add data to dataframe
     df['pivot_point'] = 0
     df.loc[maxima_x,'pivot_point'] = 1
-    df.loc[minima_x,'pivot_point'] = -1
+    df.loc[minima_x,'pivot_point'] = 2
 
     return df
